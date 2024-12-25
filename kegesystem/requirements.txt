@@ -1,0 +1,4 @@
+flask
+matplotlib
+bs4
+aiohttp

@@ -1,0 +1,211 @@
+
+@font-face {
+    font-family: 'TT First Neue';
+    src: url('/static/fonts/TTFirsNeue-Regular.woff2') format('woff'),
+         url('/static/fonts/TTFirsNeue-Regular.woff') format('woff'),
+         url('/static/fonts/TTFirsNeue-Black.woff2') format('woff'),
+         url('/static/fonts/TTFirsNeue-Black.woff') format('woff'),
+         url('/static/fonts/TTFirsNeue-Bold.woff2') format('woff'),
+         url('/static/fonts/TTFirsNeue-Bold.woff') format('woff'),
+         url('/static/fonts/TTFirsNeue-BoldItalic.woff2') format('woff'),
+         url('/static/fonts/TTFirsNeue-BoldItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    background-color: #f5f5f5;
+    font-family: 'TT First Neue', sans-serif;  
+    margin: 0;
+    padding: 0;
+}
+
+form .mb-3 {
+    margin-bottom: 20px;  
+}
+
+header {
+    background-color: white;
+    color: white;
+    padding: 20px 0;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header .logo {
+    height: 150px;
+    width: auto;
+}
+
+header nav {
+    display: flex;
+    gap: 15px; 
+}
+
+header nav .nav-item {
+    list-style: none;
+    padding: 8px 20px;
+    background-color: #03194C;
+    border-radius: 5px;
+    text-align: center;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+header nav .nav-item:hover {
+    background-color: #F71616;
+    transform: scale(1.05);
+}
+
+header nav .nav-item a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+header nav .nav-item a:hover {
+    color: white;
+}
+
+header nav .nav-item:not(:last-child):after {
+    content: "|";
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.container {
+    padding: 20px;
+}
+
+/* Стили для формы */
+form {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+form .form-label {
+    font-weight: 600;
+    color: #03194C;
+}
+
+form .btn {
+    background-color: #F71616;
+    color: white;
+    font-size: 14px; 
+    padding: 6px 12px; 
+    font-weight: 600;
+    border-radius: 5px;
+    border: none;
+    width: auto; 
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+form .btn-sm {
+    font-size: 12px; 
+    padding: 4px 10px; 
+}
+
+form .btn-small {
+    font-size: 14px; 
+    padding: 8px 20px; 
+    width: auto; 
+    margin-top: 5px; 
+}
+
+form .custom-input {
+    flex: 0 0 100px; 
+    max-width: 100px; 
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    padding: 8px 12px;
+    font-size: 14px;
+    color: #333;
+    transition: all 0.3s ease;
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.task-wrapper {
+    margin-bottom: 30px; 
+}
+
+.card {
+    background-color: #ffffff; 
+    border: 1px solid #ddd; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 8px; 
+    margin-bottom: 20px; 
+}
+
+.card-header {
+    background-color: #f2f2f2; 
+    border-bottom: 1px solid #ddd; 
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.btn-custom {
+    font-size: 10px; 
+    padding: 5px 12px; 
+    height: auto; 
+    width: auto; 
+    display: inline-block;
+}
+
+.score-input {
+    font-size: 16px; 
+    padding: 8px;
+    width: 180px; 
+    border-radius: 5px;
+    border: 2px solid #ccc;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-top: 5px; /* Отступ сверху */
+}
+
+.task-header {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px; 
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(5px);
+    z-index: 999; /* Размытие фона должно быть сверху */
+    display: none; /* Скрыт по умолчанию */
+}
+
+.modal-dialog {
+    max-width: 500px;
+    margin: 30vh auto;
+}
+
+.modal-body {
+    font-size: 18px;
+}
+
+.modal-header {
+    background-color: #f1f1f1;
+}
+
+#loader {
+    text-align: center;
+    margin-top: 20px;
+}
+.spinner-border {
+    width: 3rem;
+    height: 3rem;
+}

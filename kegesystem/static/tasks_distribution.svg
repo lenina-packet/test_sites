@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="576pt" height="576pt" viewBox="0 0 576 576" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2024-12-26T01:04:55.668057</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.8.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 576 
+L 576 576 
+L 576 0 
+L 0 0 
+L 0 576 
+z
+" style="fill: none"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 139.762621 160.452539 
+C 125.272924 177.720687 113.761574 197.283321 105.702307 218.335362 
+C 97.643039 239.387403 93.14795 261.636044 92.402028 284.165665 
+C 91.656106 306.695286 94.669727 329.192529 101.318869 350.731543 
+C 107.968011 372.270558 118.160192 392.551763 131.475965 410.740508 
+C 144.791737 428.929252 161.045895 444.772554 179.569515 457.618398 
+C 198.093136 470.464242 218.628578 480.13396 240.330729 486.229603 
+C 262.03288 492.325247 284.59989 494.762034 307.103036 493.43968 
+C 329.606183 492.117327 351.732476 487.054227 372.571332 478.458745 
+C 393.410188 469.863263 412.671764 457.854952 429.563371 442.928002 
+C 446.454978 428.001051 460.741674 410.363077 471.835506 390.739949 
+C 482.929338 371.116822 490.676005 349.781476 494.7567 327.611944 
+C 498.837396 305.442412 499.195362 282.747045 495.815868 260.459845 
+C 492.436374 238.172646 485.366425 216.603602 474.896975 196.640365 
+C 464.427526 176.677127 450.704194 158.597359 434.291748 143.145115 
+C 417.879302 127.692871 399.006019 115.083072 378.448609 105.83466 
+C 357.891199 96.586248 335.93559 90.827858 313.485341 88.79647 
+L 295.200016 290.88 
+z
+" style="fill: #a6cee3"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 313.485341 88.79647 
+C 295.112155 87.133991 276.597773 87.984952 258.454552 91.325804 
+C 240.31133 94.666657 222.708187 100.466296 206.132261 108.564226 
+L 295.200016 290.88 
+z
+" style="fill: #1f78b4"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 206.132261 108.564226 
+C 193.412356 114.778353 181.377628 122.306628 170.224846 131.025963 
+C 159.072063 139.745298 148.862341 149.607913 139.762609 160.452554 
+L 295.200016 290.88 
+z
+" style="fill: #b2df8a"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2"/>
+   <g id="text_1">
+    <!-- Авторские задачи -->
+    <g transform="translate(380.308464 499.766619) scale(0.1 -0.1)">
+     <defs>
+      <path id="TTFirsNeue-Medium-410" d="M 96 0 
+L 1248 4480 
+L 3072 4480 
+L 4256 0 
+L 3488 0 
+L 3181 1152 
+L 1120 1152 
+L 832 0 
+L 96 0 
+z
+M 1312 1856 
+L 3002 1856 
+L 2496 3776 
+L 1792 3776 
+L 1312 1856 
+z
+" transform="scale(0.015625)"/>
+      <path id="TTFirsNeue-Medium-432" d="M 384 0 
+L 384 3264 
+L 2016 3264 
+Q 2483 3264 2745 3040 
+Q 3008 2816 3008 2464 
+Q 3008 2086 2752 1882 
+Q 2624 1786 2496 1760 
+L 2496 1734 
+Q 2662 1709 2816 1606 
+Q 3136 1389 3136 934 
+Q 3136 538 2835 269 
+Q 2534 0 2048 0 
+L 384 0 
+z
+M 1056 1984 
+L 1952 1984 
+Q 2336 1984 2336 2336 
+Q 2336 2656 1952 2656 
+L 1056 2656 
+L 1056 1984 
+z
+M 1056 608 
+L 2016 608 
+Q 2227 608 2345 720 
+Q 2464 832 2464 1024 
+Q 2464 1197 2345 1302 
+Q 2227 1408 2016 1408 
+L 1056 1408 
+L 1056 608 
+z
+" transform="scale(0.015625)"/>
+      <path id="TTFirsNeue-Medium-442" d="M 32 2656 
+L 32 3264 
+L 2880 3264 
+L 2880 2656 
+L 1792 2656 
+L 1792 0 
+L 1120 0 
+L 1120 2656 
+L 32 2656 
+z
+" transform="scale(0.015625)"/>
+      <path id="TTFirsNeue-Medium-43e" d="M 681 425 
+Q 192 915 192 1632 
+Q 192 2349 681 2838 
+Q 1171 3328 1888 3328 
+Q 2605 3328 3094 2838 
+Q 3584 2349 3584 1632 
+Q 3584 915 3094 425 
+Q 2605 -64 1888 -64 
+Q 1171 -64 681 425 
+z
+M 1171 2422 
+Q 896 2125 896 1632 
+Q 896 1139 1171 841 
+Q 1446 544 1888 544 
+Q 2330 544 2605 841 
+Q 2880 1139 2880 1632 
+Q 2880 2125 2605 2422 
+Q 2330 2720 1888 2720 
+Q 1446 2720 1171 2422 
+z
+" transform="scale(0.015625)"/>
+      <path id="TTFirsNeue-Medium-440" d="M 384 -1216 
+L 384 3264 
+L 1056 3264 
+L 1056 2848 
+L 1088 2848 
+Q 1203 2982 1350 3085 
+Q 1696 3328 2112 3328 
+Q 2771 3328 3209 2857 
+Q 3648 2387 3648 1632 
+Q 3648 877 3209 406 
+Q 2771 -64 2112 -64 
+Q 1690 -64 1350 173 
+Q 1197 282 1088 416 
+L 1056 416 
+L 1056 -1216 
+L 384 -1216 
+z
+M 1309 2435 
+Q 1056 2150 1056 1632 
+Q 1056 1114 1309 829 
+Q 1562 544 1984 544 
+Q 2432 544 2688 825 
+Q 2944 1107 2944 1632 
+Q 2944 2157 2688 2438 
+Q 2432 2720 1984 2720 
+Q 1562 2720 1309 2435 
+z
+" transform="scale(0.015625)"/>
+      <path id="TTFirsNeue-Medium-441" d="M 659 416 
+Q 192 896 192 1632 
+Q 192 2368 659 2848 
+Q 1126 3328 1824 3328 
+Q 2605 3328 3098 2733 
+Q 3309 2458 3392 2144 
+L 2688 2144 
+Q 2643 2304 2522 2432 
+Q 2272 2720 1824 2720 
+Q 1427 2720 1161 2419 
+Q 896 2118 896 1632 
+Q 896 1146 1161 845 
+Q 1427 544 1824 544 
+Q 2285 544 2547 832 
+Q 2662 960 2720 1120 
+L 3392 1120 
+Q 3309 794 3098 525 
+Q 2611 -64 1824 -64 
+Q 1126 -64 659 416 
+z
+" transform="scale(0.015625)"/>
+      <path id="TTFirsNeue-Medium-43a" d="M 384 0 
+L 384 3264 
+L 1056 3264 
+L 1056 1984 
+L 1536 1984 
+L 2528 3264 
+L 3296 3264 
+L 2112 1760 
+L 3392 0 
+L 2560 0 
+L 1568 1376 
+L 1056 1376 
+L 1056 0 
+L 384 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="TTFirsNeue-Medium-438" d="M 384 0 
+L 384 3264 
+L 1056 3264 
+L 1056 1088 
+L 1050 1024 
+L 1114 1024 
+L 2592 3264 
+L 3328 3264 
+L 3328 0 
+L 2656 0 
+L 2656 2176 
+L 2662 2240 
+L 2598 2240 
+L 1120 0 
+L 384 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="TTFirsNeue-Medium-435" d="M 675 425 
+Q 192 915 192 1632 
+Q 192 2349 675 2838 
+Q 1158 3328 1856 3328 
+Q 2554 3328 3037 2838 
+Q 3520 2349 3520 1632 
+L 3520 1408 
+L 864 1408 
+Q 941 1005 1216 774 
+Q 1491 544 1856 544 
+Q 2304 544 2573 768 
+Q 2694 858 2784 992 
+L 3488 992 
+Q 3354 678 3149 461 
+Q 2624 -64 1856 -64 
+Q 1158 -64 675 425 
+z
+M 896 1952 
+L 2816 1952 
+Q 2758 2272 2512 2496 
+Q 2266 2720 1856 2720 
+Q 1510 2720 1241 2512 
+Q 973 2304 896 1952 
+z
+" transform="scale(0.015625)"/>
+      <path id="TTFirsNeue-Medium-20" transform="scale(0.015625)"/>
+      <path id="TTFirsNeue-Medium-437" d="M 128 1056 
+L 800 1056 
+Q 826 928 922 800 
+Q 1126 544 1568 544 
+Q 1914 544 2077 659 
+Q 2240 774 2240 960 
+Q 2240 1146 2077 1261 
+Q 1914 1376 1568 1376 
+L 1216 1376 
+L 1216 1952 
+L 1568 1952 
+Q 2176 1952 2176 2336 
+Q 2176 2496 2016 2608 
+Q 1856 2720 1536 2720 
+Q 1197 2720 998 2509 
+Q 928 2426 896 2304 
+L 224 2304 
+Q 294 2598 454 2816 
+Q 826 3328 1568 3328 
+Q 2182 3328 2515 3072 
+Q 2848 2816 2848 2432 
+Q 2848 2067 2560 1869 
+Q 2445 1779 2272 1728 
+L 2272 1702 
+Q 2445 1664 2592 1568 
+Q 2912 1350 2912 928 
+Q 2912 499 2563 217 
+Q 2214 -64 1568 -64 
+Q 710 -64 346 493 
+Q 173 755 128 1056 
+z
+" transform="scale(0.015625)"/>
+      <path id="TTFirsNeue-Medium-430" d="M 630 406 
+Q 192 877 192 1632 
+Q 192 2387 630 2857 
+Q 1069 3328 1728 3328 
+Q 2144 3328 2490 3085 
+Q 2637 2982 2752 2848 
+L 2784 2848 
+L 2784 3264 
+L 3456 3264 
+L 3456 0 
+L 2784 0 
+L 2784 448 
+L 2752 448 
+Q 2656 314 2490 192 
+Q 2144 -64 1728 -64 
+Q 1069 -64 630 406 
+z
+M 1152 2438 
+Q 896 2157 896 1632 
+Q 896 1107 1152 825 
+Q 1408 544 1856 544 
+Q 2278 544 2531 829 
+Q 2784 1114 2784 1632 
+Q 2784 2150 2531 2435 
+Q 2278 2720 1856 2720 
+Q 1408 2720 1152 2438 
+z
+" transform="scale(0.015625)"/>
+      <path id="TTFirsNeue-Medium-434" d="M 32 -704 
+L 32 608 
+L 352 608 
+L 1088 3264 
+L 2528 3264 
+L 3264 608 
+L 3584 608 
+L 3584 -704 
+L 2976 -704 
+L 2976 0 
+L 640 0 
+L 640 -704 
+L 32 -704 
+z
+M 1056 608 
+L 2560 608 
+L 2016 2656 
+L 1600 2656 
+L 1056 608 
+z
+" transform="scale(0.015625)"/>
+      <path id="TTFirsNeue-Medium-447" d="M 288 2048 
+L 288 3264 
+L 960 3264 
+L 960 2112 
+Q 960 1824 1126 1664 
+Q 1293 1504 1600 1504 
+Q 1971 1504 2214 1600 
+Q 2336 1638 2400 1696 
+L 2400 3264 
+L 3072 3264 
+L 3072 0 
+L 2400 0 
+L 2400 1120 
+Q 2298 1050 2182 1005 
+Q 1907 896 1536 896 
+Q 941 896 614 1203 
+Q 288 1510 288 2048 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#TTFirsNeue-Medium-410"/>
+     <use xlink:href="#TTFirsNeue-Medium-432" x="67.999985"/>
+     <use xlink:href="#TTFirsNeue-Medium-442" x="120.499969"/>
+     <use xlink:href="#TTFirsNeue-Medium-43e" x="165.999954"/>
+     <use xlink:href="#TTFirsNeue-Medium-440" x="224.999939"/>
+     <use xlink:href="#TTFirsNeue-Medium-441" x="284.999924"/>
+     <use xlink:href="#TTFirsNeue-Medium-43a" x="340.499908"/>
+     <use xlink:href="#TTFirsNeue-Medium-438" x="393.499893"/>
+     <use xlink:href="#TTFirsNeue-Medium-435" x="451.499878"/>
+     <use xlink:href="#TTFirsNeue-Medium-20" x="509.499863"/>
+     <use xlink:href="#TTFirsNeue-Medium-437" x="537.499847"/>
+     <use xlink:href="#TTFirsNeue-Medium-430" x="586.499832"/>
+     <use xlink:href="#TTFirsNeue-Medium-434" x="646.499817"/>
+     <use xlink:href="#TTFirsNeue-Medium-430" x="702.999802"/>
+     <use xlink:href="#TTFirsNeue-Medium-447" x="762.999786"/>
+     <use xlink:href="#TTFirsNeue-Medium-438" x="816.999771"/>
+    </g>
+   </g>
+   <g id="text_2">
+    <!-- 84.7% -->
+    <g transform="translate(328.022805 405.977247) scale(0.1 -0.1)">
+     <defs>
+      <path id="TTFirsNeue-Medium-38" d="M 256 1216 
+Q 256 1798 704 2144 
+Q 896 2278 1152 2349 
+L 1152 2387 
+Q 954 2464 800 2598 
+Q 448 2899 448 3392 
+Q 448 3898 880 4253 
+Q 1312 4608 2048 4608 
+Q 2784 4608 3216 4253 
+Q 3648 3898 3648 3392 
+Q 3648 2912 3296 2598 
+Q 3130 2464 2944 2387 
+L 2944 2349 
+Q 3187 2285 3392 2138 
+Q 3840 1792 3840 1216 
+Q 3840 659 3357 265 
+Q 2874 -128 2048 -128 
+Q 1222 -128 739 265 
+Q 256 659 256 1216 
+z
+M 1216 3328 
+Q 1216 3046 1433 2867 
+Q 1651 2688 2048 2688 
+Q 2445 2688 2662 2867 
+Q 2880 3046 2880 3328 
+Q 2880 3584 2659 3760 
+Q 2438 3936 2048 3936 
+Q 1658 3936 1437 3760 
+Q 1216 3584 1216 3328 
+z
+M 1296 1801 
+Q 1024 1587 1024 1280 
+Q 1024 973 1296 758 
+Q 1568 544 2048 544 
+Q 2528 544 2800 758 
+Q 3072 973 3072 1280 
+Q 3072 1587 2800 1801 
+Q 2528 2016 2048 2016 
+Q 1568 2016 1296 1801 
+z
+" transform="scale(0.015625)"/>
+      <path id="TTFirsNeue-Medium-34" d="M 96 896 
+L 96 1600 
+L 1600 4480 
+L 2400 4480 
+L 896 1600 
+L 2368 1600 
+L 2368 2688 
+L 2400 2688 
+L 3104 2688 
+L 3104 1600 
+L 3744 1600 
+L 3744 896 
+L 3104 896 
+L 3104 0 
+L 2368 0 
+L 2368 896 
+L 96 896 
+z
+" transform="scale(0.015625)"/>
+      <path id="TTFirsNeue-Medium-2e" d="M 384 32 
+Q 256 160 256 352 
+Q 256 544 384 672 
+Q 512 800 704 800 
+Q 896 800 1024 672 
+Q 1152 544 1152 352 
+Q 1152 160 1024 32 
+Q 896 -96 704 -96 
+Q 512 -96 384 32 
+z
+" transform="scale(0.015625)"/>
+      <path id="TTFirsNeue-Medium-37" d="M 64 3776 
+L 64 4480 
+L 3104 4480 
+L 3104 3776 
+L 1312 0 
+L 512 0 
+L 2272 3712 
+L 2272 3776 
+L 64 3776 
+z
+" transform="scale(0.015625)"/>
+      <path id="TTFirsNeue-Medium-25" d="M 566 2742 
+Q 256 3053 256 3488 
+Q 256 3923 566 4233 
+Q 877 4544 1312 4544 
+Q 1747 4544 2057 4233 
+Q 2368 3923 2368 3488 
+Q 2368 3053 2057 2742 
+Q 1747 2432 1312 2432 
+Q 877 2432 566 2742 
+z
+M 800 0 
+L 3488 4480 
+L 4128 4480 
+L 1440 0 
+L 800 0 
+z
+M 947 3881 
+Q 800 3731 800 3488 
+Q 800 3245 947 3094 
+Q 1094 2944 1312 2944 
+Q 1530 2944 1677 3094 
+Q 1824 3245 1824 3488 
+Q 1824 3731 1677 3881 
+Q 1530 4032 1312 4032 
+Q 1094 4032 947 3881 
+z
+M 2870 246 
+Q 2560 557 2560 992 
+Q 2560 1427 2870 1737 
+Q 3181 2048 3616 2048 
+Q 4051 2048 4361 1737 
+Q 4672 1427 4672 992 
+Q 4672 557 4361 246 
+Q 4051 -64 3616 -64 
+Q 3181 -64 2870 246 
+z
+M 3251 1385 
+Q 3104 1235 3104 992 
+Q 3104 749 3251 598 
+Q 3398 448 3616 448 
+Q 3834 448 3981 598 
+Q 4128 749 4128 992 
+Q 4128 1235 3981 1385 
+Q 3834 1536 3616 1536 
+Q 3398 1536 3251 1385 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#TTFirsNeue-Medium-38"/>
+     <use xlink:href="#TTFirsNeue-Medium-34" x="63.999985"/>
+     <use xlink:href="#TTFirsNeue-Medium-2e" x="122.499969"/>
+     <use xlink:href="#TTFirsNeue-Medium-37" x="144.499954"/>
+     <use xlink:href="#TTFirsNeue-Medium-25" x="194.999939"/>
+    </g>
+   </g>
+   <g id="text_3">
+    <!-- Реальный экзамен -->
+    <g transform="translate(164.330005 73.920385) scale(0.1 -0.1)">
+     <defs>
+      <path id="TTFirsNeue-Medium-420" d="M 448 0 
+L 448 4480 
+L 2400 4480 
+Q 3174 4480 3651 4048 
+Q 4128 3616 4128 2976 
+Q 4128 2336 3651 1904 
+Q 3174 1472 2400 1472 
+L 1184 1472 
+L 1184 0 
+L 448 0 
+z
+M 1184 2176 
+L 2400 2176 
+Q 2867 2176 3113 2390 
+Q 3360 2605 3360 2976 
+Q 3360 3347 3113 3561 
+Q 2867 3776 2400 3776 
+L 1184 3776 
+L 1184 2176 
+z
+" transform="scale(0.015625)"/>
+      <path id="TTFirsNeue-Medium-43b" d="M 32 0 
+L 928 3264 
+L 2368 3264 
+L 3264 0 
+L 2560 0 
+L 1856 2656 
+L 1440 2656 
+L 736 0 
+L 32 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="TTFirsNeue-Medium-44c" d="M 384 0 
+L 384 3264 
+L 1056 3264 
+L 1056 2176 
+L 1856 2176 
+Q 2419 2176 2761 1869 
+Q 3104 1562 3104 1088 
+Q 3104 614 2761 307 
+Q 2419 0 1856 0 
+L 384 0 
+z
+M 1056 608 
+L 1856 608 
+Q 2118 608 2259 736 
+Q 2400 864 2400 1088 
+Q 2400 1312 2259 1440 
+Q 2118 1568 1856 1568 
+L 1056 1568 
+L 1056 608 
+z
+" transform="scale(0.015625)"/>
+      <path id="TTFirsNeue-Medium-43d" d="M 384 0 
+L 384 3264 
+L 1056 3264 
+L 1056 1952 
+L 2656 1952 
+L 2656 3264 
+L 3328 3264 
+L 3328 0 
+L 2656 0 
+L 2656 1344 
+L 1056 1344 
+L 1056 0 
+L 384 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="TTFirsNeue-Medium-44b" d="M 3328 0 
+L 3328 3264 
+L 4000 3264 
+L 4000 0 
+L 3328 0 
+z
+M 384 0 
+L 384 3264 
+L 1056 3264 
+L 1056 2176 
+L 1728 2176 
+Q 2291 2176 2633 1869 
+Q 2976 1562 2976 1088 
+Q 2976 614 2633 307 
+Q 2291 0 1728 0 
+L 384 0 
+z
+M 1056 608 
+L 1728 608 
+Q 1990 608 2131 736 
+Q 2272 864 2272 1088 
+Q 2272 1312 2131 1440 
+Q 1990 1568 1728 1568 
+L 1056 1568 
+L 1056 608 
+z
+" transform="scale(0.015625)"/>
+      <path id="TTFirsNeue-Medium-439" d="M 384 0 
+L 384 3264 
+L 1056 3264 
+L 1056 1088 
+L 1050 1024 
+L 1114 1024 
+L 2592 3264 
+L 3328 3264 
+L 3328 0 
+L 2656 0 
+L 2656 2176 
+L 2662 2240 
+L 2598 2240 
+L 1120 0 
+L 384 0 
+z
+M 864 4544 
+L 1408 4544 
+Q 1408 4192 1856 4192 
+Q 2304 4192 2304 4544 
+L 2848 4544 
+Q 2848 4166 2595 3939 
+Q 2342 3712 1856 3712 
+Q 1370 3712 1117 3939 
+Q 864 4166 864 4544 
+z
+" transform="scale(0.015625)"/>
+      <path id="TTFirsNeue-Medium-44d" d="M 160 1120 
+L 832 1120 
+Q 890 960 1005 832 
+Q 1267 544 1728 544 
+Q 2074 544 2330 755 
+Q 2586 966 2662 1344 
+L 1504 1344 
+L 1504 1952 
+L 2656 1952 
+Q 2579 2304 2316 2512 
+Q 2054 2720 1728 2720 
+Q 1280 2720 1030 2432 
+Q 909 2304 864 2144 
+L 160 2144 
+Q 243 2458 454 2733 
+Q 909 3328 1728 3328 
+Q 2426 3328 2893 2848 
+Q 3360 2368 3360 1632 
+Q 3360 896 2893 416 
+Q 2426 -64 1728 -64 
+Q 902 -64 454 525 
+Q 243 794 160 1120 
+z
+" transform="scale(0.015625)"/>
+      <path id="TTFirsNeue-Medium-43c" d="M 384 0 
+L 384 3264 
+L 1344 3264 
+L 2208 1312 
+L 2336 1312 
+L 3200 3264 
+L 4160 3264 
+L 4160 0 
+L 3488 0 
+L 3488 2304 
+L 3494 2368 
+L 3462 2368 
+L 2656 576 
+L 1888 576 
+L 1082 2368 
+L 1050 2368 
+L 1056 2304 
+L 1056 0 
+L 384 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#TTFirsNeue-Medium-420"/>
+     <use xlink:href="#TTFirsNeue-Medium-435" x="67.499985"/>
+     <use xlink:href="#TTFirsNeue-Medium-430" x="125.499969"/>
+     <use xlink:href="#TTFirsNeue-Medium-43b" x="185.499954"/>
+     <use xlink:href="#TTFirsNeue-Medium-44c" x="236.999939"/>
+     <use xlink:href="#TTFirsNeue-Medium-43d" x="287.499924"/>
+     <use xlink:href="#TTFirsNeue-Medium-44b" x="345.499908"/>
+     <use xlink:href="#TTFirsNeue-Medium-439" x="413.999893"/>
+     <use xlink:href="#TTFirsNeue-Medium-20" x="471.999878"/>
+     <use xlink:href="#TTFirsNeue-Medium-44d" x="499.999863"/>
+     <use xlink:href="#TTFirsNeue-Medium-43a" x="555.499847"/>
+     <use xlink:href="#TTFirsNeue-Medium-437" x="608.499832"/>
+     <use xlink:href="#TTFirsNeue-Medium-430" x="657.499817"/>
+     <use xlink:href="#TTFirsNeue-Medium-43c" x="717.499802"/>
+     <use xlink:href="#TTFirsNeue-Medium-435" x="788.499786"/>
+     <use xlink:href="#TTFirsNeue-Medium-43d" x="846.499771"/>
+    </g>
+   </g>
+   <g id="text_4">
+    <!-- 8.7% -->
+    <g transform="translate(262.477737 173.697482) scale(0.1 -0.1)">
+     <use xlink:href="#TTFirsNeue-Medium-38"/>
+     <use xlink:href="#TTFirsNeue-Medium-2e" x="63.999985"/>
+     <use xlink:href="#TTFirsNeue-Medium-37" x="85.999969"/>
+     <use xlink:href="#TTFirsNeue-Medium-25" x="136.499954"/>
+    </g>
+   </g>
+   <g id="text_5">
+    <!-- Усложненный экзамен -->
+    <g transform="translate(48.027329 117.59056) scale(0.1 -0.1)">
+     <defs>
+      <path id="TTFirsNeue-Medium-423" d="M 0 4480 
+L 768 4480 
+L 1568 2432 
+L 2336 2432 
+L 3136 4480 
+L 3904 4480 
+L 2112 0 
+L 1344 0 
+L 2048 1728 
+L 1088 1728 
+L 0 4480 
+z
+" transform="scale(0.015625)"/>
+      <path id="TTFirsNeue-Medium-436" d="M 32 0 
+L 1248 1760 
+L 128 3264 
+L 896 3264 
+L 1824 1984 
+L 2240 1984 
+L 2240 3264 
+L 2912 3264 
+L 2912 1984 
+L 3328 1984 
+L 4256 3264 
+L 5024 3264 
+L 3904 1760 
+L 5120 0 
+L 4320 0 
+L 3360 1376 
+L 2912 1376 
+L 2912 0 
+L 2240 0 
+L 2240 1376 
+L 1792 1376 
+L 832 0 
+L 32 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#TTFirsNeue-Medium-423"/>
+     <use xlink:href="#TTFirsNeue-Medium-441" x="59.499985"/>
+     <use xlink:href="#TTFirsNeue-Medium-43b" x="114.999969"/>
+     <use xlink:href="#TTFirsNeue-Medium-43e" x="166.499954"/>
+     <use xlink:href="#TTFirsNeue-Medium-436" x="225.499939"/>
+     <use xlink:href="#TTFirsNeue-Medium-43d" x="305.999924"/>
+     <use xlink:href="#TTFirsNeue-Medium-435" x="363.999908"/>
+     <use xlink:href="#TTFirsNeue-Medium-43d" x="421.999893"/>
+     <use xlink:href="#TTFirsNeue-Medium-43d" x="479.999878"/>
+     <use xlink:href="#TTFirsNeue-Medium-44b" x="537.999863"/>
+     <use xlink:href="#TTFirsNeue-Medium-439" x="606.499847"/>
+     <use xlink:href="#TTFirsNeue-Medium-20" x="664.499832"/>
+     <use xlink:href="#TTFirsNeue-Medium-44d" x="692.499817"/>
+     <use xlink:href="#TTFirsNeue-Medium-43a" x="747.999802"/>
+     <use xlink:href="#TTFirsNeue-Medium-437" x="800.999786"/>
+     <use xlink:href="#TTFirsNeue-Medium-430" x="849.999771"/>
+     <use xlink:href="#TTFirsNeue-Medium-43c" x="909.999756"/>
+     <use xlink:href="#TTFirsNeue-Medium-435" x="980.999741"/>
+     <use xlink:href="#TTFirsNeue-Medium-43d" x="1038.999725"/>
+    </g>
+   </g>
+   <g id="text_6">
+    <!-- 6.7% -->
+    <g transform="translate(209.664914 197.517578) scale(0.1 -0.1)">
+     <defs>
+      <path id="TTFirsNeue-Medium-36" d="M 224 1472 
+Q 224 1779 361 2115 
+Q 499 2451 630 2646 
+Q 762 2842 992 3136 
+L 2016 4480 
+L 2880 4480 
+L 1914 3219 
+L 1632 2976 
+L 1632 2944 
+L 1760 2989 
+Q 1952 3040 2176 3040 
+Q 2803 3040 3241 2589 
+Q 3680 2138 3680 1472 
+Q 3680 794 3193 333 
+Q 2707 -128 1952 -128 
+Q 1197 -128 710 333 
+Q 224 794 224 1472 
+z
+M 1254 2141 
+Q 992 1882 992 1472 
+Q 992 1062 1254 803 
+Q 1517 544 1952 544 
+Q 2387 544 2649 803 
+Q 2912 1062 2912 1472 
+Q 2912 1882 2649 2141 
+Q 2387 2400 1952 2400 
+Q 1517 2400 1254 2141 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#TTFirsNeue-Medium-36"/>
+     <use xlink:href="#TTFirsNeue-Medium-2e" x="61.499985"/>
+     <use xlink:href="#TTFirsNeue-Medium-37" x="83.499969"/>
+     <use xlink:href="#TTFirsNeue-Medium-25" x="133.999954"/>
+    </g>
+   </g>
+   <g id="text_7">
+    <!-- Распределение задач по уровням -->
+    <g transform="translate(213.125 49.12) scale(0.1 -0.1)">
+     <defs>
+      <path id="TTFirsNeue-Medium-43f" d="M 384 0 
+L 384 3264 
+L 3296 3264 
+L 3296 0 
+L 2624 0 
+L 2624 2656 
+L 1056 2656 
+L 1056 0 
+L 384 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="TTFirsNeue-Medium-443" d="M 64 3264 
+L 768 3264 
+L 1472 640 
+L 1824 640 
+L 2592 3264 
+L 3296 3264 
+L 1952 -1216 
+L 1248 -1216 
+L 1632 0 
+L 960 0 
+L 64 3264 
+z
+" transform="scale(0.015625)"/>
+      <path id="TTFirsNeue-Medium-44f" d="M 256 0 
+L 896 1184 
+Q 730 1261 589 1389 
+Q 288 1677 288 2144 
+Q 288 2637 633 2950 
+Q 979 3264 1568 3264 
+L 3040 3264 
+L 3040 0 
+L 2368 0 
+L 2368 992 
+L 1536 992 
+L 1024 0 
+L 256 0 
+z
+M 992 2144 
+Q 992 1888 1145 1744 
+Q 1299 1600 1600 1600 
+L 2368 1600 
+L 2368 2656 
+L 1600 2656 
+Q 1318 2656 1155 2512 
+Q 992 2368 992 2144 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#TTFirsNeue-Medium-420"/>
+     <use xlink:href="#TTFirsNeue-Medium-430" x="67.499985"/>
+     <use xlink:href="#TTFirsNeue-Medium-441" x="127.499969"/>
+     <use xlink:href="#TTFirsNeue-Medium-43f" x="182.999954"/>
+     <use xlink:href="#TTFirsNeue-Medium-440" x="240.499939"/>
+     <use xlink:href="#TTFirsNeue-Medium-435" x="300.499924"/>
+     <use xlink:href="#TTFirsNeue-Medium-434" x="358.499908"/>
+     <use xlink:href="#TTFirsNeue-Medium-435" x="414.999893"/>
+     <use xlink:href="#TTFirsNeue-Medium-43b" x="472.999878"/>
+     <use xlink:href="#TTFirsNeue-Medium-435" x="524.499863"/>
+     <use xlink:href="#TTFirsNeue-Medium-43d" x="582.499847"/>
+     <use xlink:href="#TTFirsNeue-Medium-438" x="640.499832"/>
+     <use xlink:href="#TTFirsNeue-Medium-435" x="698.499817"/>
+     <use xlink:href="#TTFirsNeue-Medium-20" x="756.499802"/>
+     <use xlink:href="#TTFirsNeue-Medium-437" x="784.499786"/>
+     <use xlink:href="#TTFirsNeue-Medium-430" x="833.499771"/>
+     <use xlink:href="#TTFirsNeue-Medium-434" x="893.499756"/>
+     <use xlink:href="#TTFirsNeue-Medium-430" x="949.999741"/>
+     <use xlink:href="#TTFirsNeue-Medium-447" x="1009.999725"/>
+     <use xlink:href="#TTFirsNeue-Medium-20" x="1063.99971"/>
+     <use xlink:href="#TTFirsNeue-Medium-43f" x="1091.999695"/>
+     <use xlink:href="#TTFirsNeue-Medium-43e" x="1149.49968"/>
+     <use xlink:href="#TTFirsNeue-Medium-20" x="1208.499664"/>
+     <use xlink:href="#TTFirsNeue-Medium-443" x="1236.499649"/>
+     <use xlink:href="#TTFirsNeue-Medium-440" x="1287.499634"/>
+     <use xlink:href="#TTFirsNeue-Medium-43e" x="1347.499619"/>
+     <use xlink:href="#TTFirsNeue-Medium-432" x="1406.499603"/>
+     <use xlink:href="#TTFirsNeue-Medium-43d" x="1458.999588"/>
+     <use xlink:href="#TTFirsNeue-Medium-44f" x="1516.999573"/>
+     <use xlink:href="#TTFirsNeue-Medium-43c" x="1570.499557"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
